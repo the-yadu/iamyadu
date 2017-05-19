@@ -101,7 +101,7 @@
                         <label>Frontend : </label> React, Angular, Vue<sup>*</sup>
                     </div>
                     <div>
-                        <label>Mobile : </label> React Native, <a href="http://nativebase.io">Native Base</a>
+                        <label>Mobile : </label> React Native, <a href="http://nativebase.io">Native Base</a>,Ionic
                     </div>
                 </div>
                 <hr>
