@@ -32,7 +32,6 @@
 </head>
 
 <body>
-
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
         <div class="container-fluid">
@@ -53,9 +52,6 @@
                     </li>
                     <li>
                         <a href="http://dailyblogvlog.com">blog</a>
-                    </li>
-                    <li>
-                        <a href="post.html">Sample Post</a>
                     </li>
                     <li>
                         <a href="contact.html">Contact</a>
@@ -105,18 +101,10 @@
                         <label>Frontend : </label> React, Angular, Vue<sup>*</sup>
                     </div>
                     <div>
-                        <label>Mobile : </label> React Native, <a href="http://nativebase.io">Native Base</a><sup>*</sup>
+                        <label>Mobile : </label> React Native, <a href="http://nativebase.io">Native Base</a>
                     </div>
                 </div>
                 <hr>
-
-                <hr>
-                <!-- Pager -->
-                <ul class="pager">
-                    <li class="next">
-                        <a href="#">Older Posts &rarr;</a>
-                    </li>
-                </ul>
             </div>
         </div>
     </div>
