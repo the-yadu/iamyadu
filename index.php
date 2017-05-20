@@ -63,19 +63,84 @@
                             Skills
                         </h2>
                         <div>
-                            <label>Server Side : </label> NodeJS, ExpressJs, VueJs
+                            <label>Server Side : </label> NodeJS, ExpressJs, VueJs, PHP<sup>*</sup>
                         </div>
+                        <br>
                         <div>
-                            <label>AI & ML : </label> Machine learning, API.ai, Wit.ai
+                            <label>AI & ML : </label> Machine learning, API.ai, Wit.ai<sup>*</sup>
                         </div>
+                        <br>
                         <div>
                             <label>Databases & frameworks : </label> Mysql, Mongo, Mongoose, SQL, Cassandra<sup>*</sup>
                         </div>
+                        <br>
                         <div>
-                            <label>Frontend : </label> React, Angular, Vue<sup>*</sup>
+                            <label>Desktop Programming : </label> Python<sup>*</sup>, C#<sup>*</sup>
                         </div>
+                        <br>
+                        <div>
+                            <label>Frontend : </label> React, Angular, Vue<sup>*</sup>, HTML5, CSS3, KnockoutJS, polymerjs, JADE, Bootstrap, Jquery, Extjs<sup>*</sup>
+                        </div>
+                        <br>
                         <div>
                             <label>Mobile : </label> React Native, <a href="http://nativebase.io">Native Base</a>,Ionic
+                        </div>
+                        <br>
+                        <div>
+                            <label>Web Servers : </label> Apache web server, Node server, nGinx<sup>*</sup>
+                        </div>
+                        <br>
+                        <div>
+                            <label>Dev tools : </label> Grunt, Gulp, Webpack<sup>*</sup>
+                        </div>
+                        <br>
+                        <div>
+                            <label>OOCSS : </label> STYLUS, SASS, LESS<sup>*</sup>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="post-preview">
+
+                        <h2 class="post-title">
+                            About me :
+                        </h2>
+                        <div>
+                            <label>Age : </label>
+                            <?php
+                              $tz  = new DateTimeZone('Asia/Kolkata');
+                                echo $age = DateTime::createFromFormat('d/m/Y', '25/07/1989', $tz)
+                                     ->diff(new DateTime('now', $tz))
+                                     ->y;
+                            ?> (25/07/1989)
+                        </div>
+                        <br>
+                        <div>
+                            <label>Profession : </label> Product architect/ Lead developer at <a href="ykone.com">Ykone.com</a>
+                        </div>
+                        <br>
+                        <div>
+                            <label>Interest : </label> Bikes | Cars | Trvelling | Road trips | Vollyball | MMA | Researching | Games |
+                        </div>
+                        <br>
+                        <div>
+                            <label>Married? : </label> Still fighting
+                        </div>
+                        <br>
+                        <div>
+                            <label>Frontend : </label> React, Angular, Vue<sup>*</sup>, HTML5, CSS3, KnockoutJS, polymerjs, JADE, Bootstrap, Jquery, Extjs<sup>*</sup>
+                        </div>
+                        <br>
+                        <div>
+                            <label>Mobile : </label> React Native, <a href="http://nativebase.io">Native Base</a>,Ionic
+                        </div>
+                        <div>
+                            <label>Web Servers : </label> Apache web server, Node server, nGinx<sup>*</sup>
+                        </div>
+                        <div>
+                            <label>Dev tools : </label> Grunt, Gulp, Webpack<sup>*</sup>
+                        </div>
+                        <div>
+                            <label>OOCSS : </label> STYLUS, SASS, LESS<sup>*</sup>
                         </div>
                     </div>
                     <hr>

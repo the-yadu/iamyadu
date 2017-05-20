@@ -20,7 +20,7 @@
                     <a href="http://dailyblogvlog.com">blog</a>
                 </li>
                 <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="mailto:narayan.singh.2571989@gmail.com">Contact</a>
                 </li>
             </ul>
         </div>

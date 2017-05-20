@@ -20,7 +20,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="http://github.com/the-yadu">
                             <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -28,7 +28,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="https://bitbucket.org/narayan_yaduvanshi/">
                             <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-bitbucket fa-stack-1x fa-inverse"></i>
